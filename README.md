@@ -1,4 +1,3 @@
-# AI_agent
 # 🎬 AI Instructor Agent: PPT to Video Generator
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
