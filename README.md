@@ -5,7 +5,9 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green)](https://openai.com/)
 [![Gradio](https://img.shields.io/badge/Gradio-UI-yellow)](https://gradio.app/)
 
-> **"PPT 파일만 업로드하세요. 대본 작성부터 음성 합성, 영상 제작까지 AI가 수행합니다."** > LangGraph 기반의 멀티모달 에이전트 워크플로우를 활용한 자동화 강의 영상 제작 서비스입니다.
+> **"PPT 파일만 업로드하세요. 대본 작성부터 음성 합성, 영상 제작까지 AI가 수행합니다."**
+> <br>
+> LangGraph 기반의 멀티모달 에이전트 워크플로우를 활용한 자동화 강의 영상 제작 서비스입니다.
 
 ---
 
